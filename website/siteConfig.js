@@ -22,8 +22,8 @@ const siteConfig = {
     //   baseUrl: '/test-site/',
 
     // Used for publishing and more
-    projectName: 'Poop Car',
-    organizationName: 'Poop Car Automotive',
+    projectName: 'tech-portfolio',
+    organizationName: 'chinhtruong1',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
